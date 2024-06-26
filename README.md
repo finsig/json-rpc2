@@ -1,3 +1,3 @@
 # JSONRPC2
 
-A description of this package.
+Swift implementation of [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification).
