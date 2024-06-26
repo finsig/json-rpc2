@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "JSONRPC2",
+    name: "json-rpc2",
     products: [
         .library(
             name: "JSONRPC2",
