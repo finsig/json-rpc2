@@ -13,9 +13,9 @@ import JSON
  
 */
 public struct JSONRPC2Error: Error {
-    let code: Int
-    let message: String
-    let errorInfo: JSON?
+    public let code: Int
+    public let message: String
+    public let errorInfo: JSON?
 }
 
 extension JSONRPC2Error: Codable {
